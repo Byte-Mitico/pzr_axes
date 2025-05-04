@@ -1,5 +1,6 @@
 name=Byte Mitico - PZR Axes
 id=bytemitico.pzr_axes
-authors=Kallyous
-modversion=1.0.0
 description=Rebalances the axes, so their durability makes sense.
+authors=Kallyous
+modversion=1.0.1
+poster=poster.png

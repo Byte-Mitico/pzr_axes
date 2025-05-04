@@ -1,0 +1,6 @@
+version=1
+id=3476073404
+title=Byte Mitico PZR Axes Rebalanced
+description=Rebalances axes so their durability makes sense.
+tags=Build 41;Balance
+visibility=public
